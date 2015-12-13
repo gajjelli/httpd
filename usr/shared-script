@@ -1,0 +1,2 @@
+#/bin/env sh
+echo "This is a GAJJELLI - shared script"
